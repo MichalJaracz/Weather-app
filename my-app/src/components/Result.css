@@ -1,0 +1,15 @@
+.result {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    border-top: 2px solid #ddd;
+}
+
+.result h2, .result h3 {
+    padding: 20px;
+    font-weight: normal;
+    border: 3px dotted black;
+}
+.result em {
+    font-weight: bold;
+}
